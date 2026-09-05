@@ -1,107 +1,153 @@
-# Haroon Shahid
+<div align="center">
 
-**Full-stack & AI engineer.** I design and ship product-shaped systems: retrieval-augmented document platforms, agent workflows, and multi-tenant SaaS — from data model and auth to the UI people actually use.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Haroon!;Full+Stack+Developer;AI+%26+RAG+Engineer;TypeScript+%26+Python)](https://git.io/typing-svg)
 
-I care about clean boundaries, honest READMEs, and repos that look like they belong in a team, not a tutorial dump.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Shahid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20SaaS&descAlignY=60&descAlign=50" width="100%"/>
 
----
+</div>
 
-### Focus
+<div align="center">
 
-| Area | What I actually build |
-| --- | --- |
-| **Document intelligence** | RAG pipelines, OCR, search, and chat over private corpora |
-| **Agent systems** | Natural-language planners, tool-using agents, harness experimentation |
-| **SaaS products** | Workspaces, RLS, realtime boards, checkout and onboarding |
-| **Commerce** | Catalogs, carts, admin, and payment-ready storefronts |
+### 🚀 `< Full Stack Developer | AI Engineer | Product Builder />`
 
-**Stack I ship with:** TypeScript · Next.js · React · Node / Express · Python · FastAPI · Flask · Django · PostgreSQL · MongoDB · Supabase · Docker · Tailwind CSS · OpenCV
+💼 **Open to Work** &nbsp;|&nbsp; ⚡ **Building intelligent products**
 
----
+<br/>
 
-### Featured work
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haroonsh-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-haroon188s-projects.vercel.app)
 
-These are the repos that best represent how I work. The rest of the account is practice, clones, or experiments — I keep those out of the spotlight on purpose.
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/haroonsh-dev/visbility-docs">Visibility Docs AI</a></h3>
-      <p>Document intelligence platform with RAG, multi-tenant access, and integrations.</p>
-      <p>
-        Split into a Next.js UI, an Express + MongoDB API gateway (JWT), and a FastAPI service for OCR, retrieval, and search. Docker Compose for local bring-up. Frontend talks to the gateway; the gateway talks to the AI service over internal REST.
-      </p>
-      <p><code>TypeScript</code> · <code>Next.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>FastAPI</code> · <code>RAG</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/haroonsh-dev/Mustqbil-round2-landing-main">Clarity</a> · <a href="https://clarity-chi-two.vercel.app">live</a></h3>
-      <p>Project-management SaaS MVP: landing → pricing → checkout → signup → onboarded Kanban.</p>
-      <p>
-        Multiplayer boards over Supabase Realtime, workspace invites via Edge Functions, and PostgreSQL Row-Level Security so members only see their own workspace. Schema covers workspaces, members, boards, columns, tasks, and subscriptions.
-      </p>
-      <p><code>React</code> · <code>TanStack Router</code> · <code>Supabase</code> · <code>Postgres RLS</code> · <code>Tailwind</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/haroonsh-dev/Smart-shop">Smart Shop</a> · <a href="https://smart-shop-brown-mu.vercel.app">live</a></h3>
-      <p>Next.js storefront: browse, recommendations, cart, demo checkout, and admin pages.</p>
-      <p><code>TypeScript</code> · <code>Next.js</code> · <code>e-commerce</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/haroonsh-dev/first-ai-agent">AI Command Parser</a></h3>
-      <p>Turns a plain-English goal into a numbered execution plan (Flask + GPT-4) with a small web UI and a <code>/api/parse</code> endpoint.</p>
-      <p><code>Python</code> · <code>Flask</code> · <code>OpenAI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/haroonsh-dev/ecommerce-project">GreatKart</a></h3>
-      <p>Django commerce platform: auth, catalog, cart, orders, profiles, admin, PayPal.</p>
-      <p><code>Django</code> · <code>Python</code> · <code>Bootstrap</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/haroonsh-dev/Face-Detection">Face Detection</a></h3>
-      <p>Realtime webcam detection with Haar Cascades and an OpenCV DNN (SSD) path, plus FPS overlay.</p>
-      <p><code>Python</code> · <code>OpenCV</code></p>
-    </td>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=haroonsh-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-Also public: a [Next.js portfolio](https://github.com/haroonsh-dev/Portfolio) and smaller product experiments. I study agent runtimes (including [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)) — that repo is research, not a product I claim as original.
-
-Privately I also work on an **agentic RAG assistant** and **ARTSA**, an AI containment / simulation architecture. Those stay closed; the public work above is the reviewable record.
+</div>
 
 ---
 
-### How I treat GitHub
+## 👨‍💻 About Me
 
-- **One idea per repo.** Product name, one-paragraph description, topics, and a homepage when it is deployed.
-- **README as the product brief.** What it is, who it is for, architecture, how to run, what is out of scope.
-- **Pin the strongest six.** Everything else can stay unpinned. Empty or template repos do not belong on the profile grid.
-- **Do not present forks or vendor trees as my architecture.** Credit upstream. Keep learning repos labeled as such.
+> 🚀 Full Stack & AI engineer building modern web products and intelligent systems — from the interface down to APIs, data, and models.
 
-If you are reviewing this account, start with **Visibility Docs** and **Clarity**. They show system design, not just UI.
+| 🏷️ | Details |
+|:---:|:---|
+| 👤 **Name** | Haroon Shahid |
+| 💼 **Role** | Full Stack Developer & AI Engineer |
+| 💻 **Languages** | TypeScript, JavaScript, Python |
+| 🎯 **Interests** | RAG, Agents, SaaS, Full-Stack Product |
+| 🟢 **Status** | Open to Work & New Opportunities |
 
----
-
-### Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=haroonsh-dev&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=issues&theme=transparent&hide_border=true" height="150" alt="GitHub stats for haroonsh-dev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonsh-dev&theme=transparent&hide_border=true" alt="Contribution streak" />
-</p>
+> *"Building intelligent products, one line of code at a time! 🚀"*
 
 ---
 
-### Currently
+## 📊 Quick Stats
 
-Shipping **Visibility Docs AI** (RAG + multi-tenant document workflows) and tightening how my public repos are described, tagged, and pinned.
+<div align="center">
 
-Open to collaboration on **RAG products, agent tooling, and TypeScript SaaS**.
+| 💻 Languages | 🛠️ Stack | 🎯 Focus | 🟢 Status |
+|:---:|:---:|:---:|:---:|
+| **TypeScript · Python** | **Full Stack + AI** | **RAG · SaaS** | **Open to Work** |
 
-**GitHub:** [haroonsh-dev](https://github.com/haroonsh-dev)
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 💻 Full Stack Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 AI & Backend
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ⚙️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haroonsh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haroonsh-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haroonsh-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroonsh-dev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haroonsh-dev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haroonsh-dev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haroonsh-dev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haroonsh-dev&theme=tokyonight&utcOffset=5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💬 Have an idea in mind? Let's build something amazing! 🚀
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me!-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haroonsh-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work!-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-haroon188s-projects.vercel.app)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**⭐ Thanks for visiting my profile!**
+
+*"Building intelligent products, one line of code at a time 🚀"*
+
+</div>
