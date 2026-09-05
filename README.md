@@ -1,50 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Shahid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20RAG%20%7C%20Agents&descAlignY=60&descAlign=50" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Full-Stack+%26+AI+Engineer;RAG+%C2%B7+Agents+%C2%B7+Hugging+Face;LangChain+%C2%B7+MoE+%C2%B7+TypeScript+%C2%B7+Python" alt="Haroon Shahid" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Haroon!;Full+Stack+Developer;AI+%26+RAG+Engineer;TypeScript+%26+Python)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Shahid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20SaaS&descAlignY=60&descAlign=50" width="100%"/>
+
 </div>
 
 <div align="center">
 
-<a href="#about">
-  <img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&color=0D1117&labelColor=00D9FF" alt="About" />
-</a>
-<a href="#stack">
-  <img src="https://img.shields.io/badge/Stack-0D1117?style=for-the-badge&color=0D1117&labelColor=58A6FF" alt="Stack" />
-</a>
-<a href="#work">
-  <img src="https://img.shields.io/badge/Work-0D1117?style=for-the-badge&color=0D1117&labelColor=FF6B35" alt="Work" />
-</a>
-<a href="#stats">
-  <img src="https://img.shields.io/badge/Stats-0D1117?style=for-the-badge&color=0D1117&labelColor=3FB950" alt="Stats" />
-</a>
-<a href="#connect">
-  <img src="https://img.shields.io/badge/Connect-0D1117?style=for-the-badge&color=0D1117&labelColor=A371F7" alt="Connect" />
-</a>
+### 🚀 `< Full Stack Developer | AI Engineer | Product Builder />`
+
+💼 **Open to Work** &nbsp;|&nbsp; ⚡ **Building intelligent products**
 
 <br/>
 
-<a href="https://github.com/haroonsh-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Open_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://huggingface.co">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Models_%26_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</a>
-<a href="https://portfolio-haroon188s-projects.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-</a>
-<a href="https://github.com/haroonsh-dev/haroonsh-dev/issues/new?title=Hello%20Haroon">
-  <img src="https://img.shields.io/badge/Say_Hi-Open_an_Issue-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Say hi" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haroonsh-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-haroon188s-projects.vercel.app)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=haroonsh-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/haroonsh-dev?tab=followers">
-  <img src="https://img.shields.io/github/followers/haroonsh-dev?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=haroonsh-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
