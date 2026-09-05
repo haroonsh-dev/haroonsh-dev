@@ -1,227 +1,210 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Shahid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20RAG%20%7C%20Agents&descAlignY=60&descAlign=50" width="100%"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Hello%2C+World!+I'm+Haroon!;Full+Stack+Developer;AI+%26+RAG+Engineer;Hugging+Face+%7C+LangChain+%7C+Agents;TypeScript+%26+Python)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Shahid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20RAG%20%7C%20Agents&descAlignY=60&descAlign=50" width="100%"/>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Full-Stack+%26+AI+Engineer;RAG+%C2%B7+Agents+%C2%B7+Hugging+Face;LangChain+%C2%B7+MoE+%C2%B7+TypeScript+%C2%B7+Python" alt="Haroon Shahid" />
+  </a>
 </div>
 
 <div align="center">
 
-### 🚀 `< Full Stack Developer | AI Engineer | RAG & Agents />`
-
-💼 **Open to Work** &nbsp;|&nbsp; 🤗 **Hugging Face · LangChain · LLMs** &nbsp;|&nbsp; ⚡ **Building intelligent products**
+<a href="#about">
+  <img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&color=0D1117&labelColor=00D9FF" alt="About" />
+</a>
+<a href="#stack">
+  <img src="https://img.shields.io/badge/Stack-0D1117?style=for-the-badge&color=0D1117&labelColor=58A6FF" alt="Stack" />
+</a>
+<a href="#work">
+  <img src="https://img.shields.io/badge/Work-0D1117?style=for-the-badge&color=0D1117&labelColor=FF6B35" alt="Work" />
+</a>
+<a href="#stats">
+  <img src="https://img.shields.io/badge/Stats-0D1117?style=for-the-badge&color=0D1117&labelColor=3FB950" alt="Stats" />
+</a>
+<a href="#connect">
+  <img src="https://img.shields.io/badge/Connect-0D1117?style=for-the-badge&color=0D1117&labelColor=A371F7" alt="Connect" />
+</a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haroonsh-dev)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-haroon188s-projects.vercel.app)
+<a href="https://github.com/haroonsh-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Open_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://huggingface.co">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Models_%26_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
+<a href="https://portfolio-haroon188s-projects.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<a href="https://github.com/haroonsh-dev/haroonsh-dev/issues/new?title=Hello%20Haroon">
+  <img src="https://img.shields.io/badge/Say_Hi-Open_an_Issue-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Say hi" />
+</a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=haroonsh-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/haroonsh-dev?label=Followers&style=for-the-badge&color=00D9FF)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-> 🚀 Full Stack & AI engineer building modern web products and intelligent systems — RAG, agents, Hugging Face models, and production SaaS.
-
-| 🏷️ | Details |
-|:---:|:---|
-| 👤 **Name** | Haroon Shahid |
-| 💼 **Role** | Full Stack Developer & AI Engineer |
-| 💻 **Languages** | TypeScript, JavaScript, Python |
-| 🎯 **Interests** | RAG, Agents, Hugging Face, LangChain, SaaS |
-| 🤗 **AI Stack** | Hugging Face · LangChain · OpenAI · FastAPI |
-| 🟢 **Status** | Open to Work & New Opportunities |
-
-> *"Building intelligent products, one line of code at a time! 🚀"*
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-| 💻 Languages | 🛠️ Stack | 🎯 Focus | 🟢 Status |
-|:---:|:---:|:---:|:---:|
-| **TypeScript · Python** | **Full Stack + AI** | **RAG · Agents · HF** | **Open to Work** |
+<img src="https://komarev.com/ghpvc/?username=haroonsh-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/haroonsh-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/haroonsh-dev?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
+</a>
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+<a id="about"></a>
 
-<div align="center">
+## About
 
-### 💻 Full Stack Development
+Full-stack and AI engineer. I design the product path first, then the system: UI, API, data, and the model layer when it actually earns its place.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<details>
+  <summary><b>Open a short brief</b></summary>
+  <br/>
 
-### 🤗 AI · LLMs · Hugging Face
+  | | |
+  | :--- | :--- |
+  | **Role** | Full Stack Developer & AI Engineer |
+  | **Languages** | TypeScript · JavaScript · Python |
+  | **Focus** | RAG · Agents · Hugging Face · LangChain · MoE |
+  | **Status** | Open to work and collaboration |
 
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge)
-![Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge)
+  Click a section above to jump. Click a card below to open the repo.
 
-### 🧠 Machine Learning
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### ⚙️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+</details>
 
 ---
 
-## 🏆 GitHub Trophies
+<a id="stack"></a>
+
+## Stack
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=haroonsh-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<a href="https://react.dev">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+<a href="https://nextjs.org">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</a>
+<a href="https://www.typescriptlang.org">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</a>
+<a href="https://nodejs.org">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</a>
+<a href="https://www.postgresql.org">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</a>
+<a href="https://www.mongodb.com">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
+<a href="https://huggingface.co">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
+<a href="https://www.langchain.com">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</a>
+<a href="https://openai.com">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</a>
+<a href="https://fastapi.tiangolo.com">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</a>
+<a href="https://www.docker.com">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</a>
+<a href="https://supabase.com">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</a>
 
 </div>
+
+<details>
+  <summary><b>Show the full toolkit</b></summary>
+  <br/>
+
+  **Product** — React · Next.js · Tailwind · Express · Supabase  
+  **Intelligence** — Hugging Face · LangChain · LangGraph · OpenAI · Transformers · RAG · Agents · MoE  
+  **Python** — FastAPI · Flask · Django · NumPy · Pandas · OpenCV  
+  **Ops** — Git · Docker · Vercel · Linux · Postgres · MongoDB
+
+</details>
 
 ---
 
-## 📈 GitHub Statistics
+<a id="work"></a>
+
+## Work
+
+Click a card to open the repository.
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haroonsh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
-
+  <a href="https://github.com/haroonsh-dev/visbility-docs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=visbility-docs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Visibility Docs AI" />
+  </a>
+  <a href="https://github.com/haroonsh-dev/Mustqbil-round2-landing-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=Mustqbil-round2-landing-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Clarity" />
+  </a>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haroonsh-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
+  <a href="https://github.com/haroonsh-dev/Smart-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=Smart-shop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Smart Shop" />
+  </a>
+  <a href="https://github.com/haroonsh-dev/first-ai-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=first-ai-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="AI Command Parser" />
+  </a>
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haroonsh-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <a href="https://clarity-chi-two.vercel.app"><img src="https://img.shields.io/badge/Clarity-Live_Demo-00D9FF?style=for-the-badge" alt="Clarity live" /></a>
+  <a href="https://smart-shop-brown-mu.vercel.app"><img src="https://img.shields.io/badge/Smart_Shop-Live_Demo-FF6B35?style=for-the-badge" alt="Smart Shop live" /></a>
+  <a href="https://github.com/haroonsh-dev?tab=repositories"><img src="https://img.shields.io/badge/All_repos-Browse-181717?style=for-the-badge&logo=github" alt="All repos" /></a>
+</p>
 
 ---
 
-## 🧭 How I work
+<a id="stats"></a>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 — Product</h3>
-      <p>I start from the user path, not the stack. Interfaces, APIs, and data stay in one design so the product is understandable to ship and to review.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 — Intelligence</h3>
-      <p>RAG, agents, and Hugging Face models only when they earn their place. Retrieval, tools, and evaluation matter more than a demo prompt.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 — Delivery</h3>
-      <p>TypeScript and Python in production shape: clear boundaries, Docker when it helps, and a README that another engineer can run.</p>
-    </td>
-  </tr>
-</table>
+## Stats
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haroonsh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top languages" />
+  <br/>
+  <a href="https://github.com/haroonsh-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonsh-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="Contribution streak" />
+  </a>
   <br/>
   <img src="https://ghchart.rshah.org/00D9FF/haroonsh-dev" alt="Contribution chart" />
-  <br/>
-  <sub>Year in commits — consistency over noise</sub>
 </div>
 
 ---
 
-## 🚀 Featured Work
+<a id="connect"></a>
+
+## Connect
 
 <div align="center">
 
-| # | Project | Description | Stack | Status |
-|:---:|:---|:---|:---:|:---:|
-| 1 | 📄 **Visibility Docs AI** | Document intelligence with RAG, search, and multi-tenant access | `Next.js` `FastAPI` `HF` | ✅ |
-| 2 | 📋 **Clarity** | SaaS workspace + realtime Kanban | `React` `Supabase` | ✅ |
-| 3 | 🛒 **Smart Shop** | Storefront, cart, and admin | `Next.js` `TypeScript` | ✅ |
-| 4 | 🤖 **AI Command Parser** | Natural language → execution plan | `Python` `OpenAI` | ✅ |
-| 5 | 👁️ **Face Detection** | Realtime OpenCV detection | `Python` `OpenCV` | ✅ |
-
-</div>
-
----
-
-## 🏅 Highlights
-
-<div align="center">
-
-| 🥇 | 📝 |
-|:---:|:---|
-| 🤗 **Hugging Face** | Transformers, models, and RAG pipelines |
-| 🧠 **AI Engineer** | Agents, LangChain, and LLM apps |
-| 💻 **Full Stack** | TypeScript, Next.js, Python APIs |
-| 🌍 **Open Source** | Building and shipping in public |
-| ⚡ **Product Builder** | SaaS, commerce, and document AI |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-### 💬 Have an idea in mind? Let's build something amazing! 🚀
+Want to collaborate on RAG, agents, or a TypeScript product? Open an issue or jump to a live build.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me!-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haroonsh-dev)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Let's_Collab!-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work!-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-haroon188s-projects.vercel.app)
+<a href="https://github.com/haroonsh-dev">
+  <img src="https://img.shields.io/badge/Follow-@haroonsh--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+</a>
+<a href="https://github.com/haroonsh-dev/haroonsh-dev/issues/new?title=Hello%20Haroon">
+  <img src="https://img.shields.io/badge/Message-Open_Issue-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Message" />
+</a>
+<a href="https://huggingface.co">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
+<a href="https://portfolio-haroon188s-projects.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-**⭐ Thanks for visiting my profile!**
-
-*"Building intelligent products, one line of code at a time 🚀"*
 
 </div>
