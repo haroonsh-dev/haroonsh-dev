@@ -114,19 +114,19 @@ Click a card to open the repository.
 
 <div align="center">
   <a href="https://github.com/haroonsh-dev/visbility-docs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=visbility-docs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Visibility Docs AI" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=haroonsh-dev&repo=visbility-docs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Visibility Docs AI" />
   </a>
   <a href="https://github.com/haroonsh-dev/Mustqbil-round2-landing-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=Mustqbil-round2-landing-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Clarity" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=haroonsh-dev&repo=Mustqbil-round2-landing-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Clarity" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/haroonsh-dev/Smart-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=Smart-shop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Smart Shop" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=haroonsh-dev&repo=Smart-shop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Smart Shop" />
   </a>
   <a href="https://github.com/haroonsh-dev/first-ai-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroonsh-dev&repo=first-ai-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="AI Command Parser" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=haroonsh-dev&repo=first-ai-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="AI Command Parser" />
   </a>
 </div>
 
@@ -143,11 +143,11 @@ Click a card to open the repository.
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haroonsh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=haroonsh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff" alt="Top languages" />
   <br/>
   <a href="https://github.com/haroonsh-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonsh-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=DB2777&currStreakLabel=C084FC" alt="Contribution streak" />
+    <img src="https://streak-stats.demolab.com/?user=haroonsh-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=DB2777&currStreakLabel=C084FC" alt="Contribution streak" />
   </a>
   <br/>
   <img src="https://ghchart.rshah.org/7C3AED/haroonsh-dev" alt="Contribution chart" />
