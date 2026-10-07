@@ -113,6 +113,12 @@ Full-stack and AI engineer. I design the product path first, then the system: UI
 Click a card to open the repository.
 
 <div align="center">
+  <a href="https://github.com/armishiqbal/AI-voice-agent">
+    <img src="https://img.shields.io/badge/Featured%20Project-Awaaz%20Estate%20%7C%20Autonomous%20Multimodal%20Voice%20AI-18523c?style=for-the-badge&logo=openai&logoColor=white" alt="Awaaz Estate AI Voice Agent" />
+  </a>
+</div>
+<br/>
+<div align="center">
   <a href="https://github.com/haroonsh-dev/visbility-docs">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=haroonsh-dev&repo=visbility-docs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="Visibility Docs AI" />
   </a>
@@ -143,6 +149,10 @@ Click a card to open the repository.
 ## Stats
 
 <div align="center">
+  <a href="https://github.com/haroonsh-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=haroonsh-dev&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+  <br/><br/>
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=haroonsh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff" alt="GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=haroonsh-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff" alt="Top languages" />
   <br/>
